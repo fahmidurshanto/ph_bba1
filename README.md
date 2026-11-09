@@ -24,5 +24,5 @@ The `src/solutions.ts` file contains implementations for 8 problems:
 8. `validateAgeAsync`: Async age validation returning `Promise<string>` with timer delay and Error rejection.
 
 ## Blog Posts
-- [Blog 1: Difference Between Type Alias and Interface in TypeScript](./src/type-vs-interface.md)
-- [Blog 2: What is Type Narrowing in TypeScript?](./src/type-narrowing.md)
+- [Blog 1: Difference Between Type Alias and Interface in TypeScript](./type-vs-interface.md)
+- [Blog 2: What is Type Narrowing in TypeScript?](type-narrowing.md)
